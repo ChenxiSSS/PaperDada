@@ -57,3 +57,6 @@ Surface Brightness Fluctuation of the Intra-Cluster Medium Caused by AGN Activit
         * Clear match or no clear match with the simulation and explaination;
 * AGN feedback power discussion;
 * On individual sources (if applicable).
+
+#### Reference
+All the reference can be find at the [Project Dada page](https://github.com/ChenxiSSS/astro-papers/blob/master/ProjectDada.md)
